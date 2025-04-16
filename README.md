@@ -1,4 +1,4 @@
-# Resume Radar
+# ResumeRadar
 
 An AI-powered resume analyzer dashboard built with React, TypeScript, and TailwindCSS. This application helps users improve their resumes by providing AI-driven analysis and job matching.
 
